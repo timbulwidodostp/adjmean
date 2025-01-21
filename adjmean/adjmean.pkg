@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'adjmean': Calculate variables' means adjusted for covariates Use adjmean With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f adjmean.ado
+f adjmean.hlp
+f adjprop.ado
+f adjprop.hlp
