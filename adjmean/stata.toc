@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p adjmean Calculate variables' means adjusted for covariates Use adjmean With STATA 18
